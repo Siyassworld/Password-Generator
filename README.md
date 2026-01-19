@@ -32,5 +32,5 @@ Author
 
 Siya.
 
-Check out the site: https://siyassworld.github.io/Password-Generator/
+
 # Password-Generator
