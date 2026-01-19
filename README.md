@@ -31,4 +31,6 @@ Contributions are welcome! Please submit a pull request with your changes.
 Author
 
 Siya.
+
+Check out the site: https://siyassworld.github.io/Password-Generator/
 # Password-Generator
