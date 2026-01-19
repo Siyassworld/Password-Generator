@@ -30,5 +30,5 @@ Contributions are welcome! Please submit a pull request with your changes.
 
 Author
 
-Siya.
+#Siya.
 # Password-Generator
