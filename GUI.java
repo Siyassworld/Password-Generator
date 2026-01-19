@@ -3,10 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author anand
- */
+
 import java.util.Random;
 public class GUI extends javax.swing.JFrame {
 
